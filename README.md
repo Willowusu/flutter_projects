@@ -1,16 +1,16 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Personal Info Card(Inspired by London App Brewery)
 
-# Mi Card
-
-## Our Goal
+## My Goal
 
 Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
 
-## What you will create
+## What I created!
+[simulator_screenshot_D772C722-0C05-46E6-94A2-BA507B9E50CA](https://user-images.githubusercontent.com/48158486/192165973-e12d5fe0-b161-43d4-ad48-20b5e37b466e.png)
 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
-## What you will learn
+App Brewery describes this as a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
+
+## What I learned
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
@@ -22,7 +22,3 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to read and use Flutter Documentation
 
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
