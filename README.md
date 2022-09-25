@@ -1,9 +1,5 @@
 # Personal Info Card(Inspired by London App Brewery)
 
-## My Goal
-
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
-
 ## What I created!
 [simulator_screenshot_D772C722-0C05-46E6-94A2-BA507B9E50CA](https://user-images.githubusercontent.com/48158486/192165973-e12d5fe0-b161-43d4-ad48-20b5e37b466e.png)
 
@@ -20,5 +16,6 @@ App Brewery describes this as a personal business card. Imagine every time you w
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
+* How to use ListView
 
 
